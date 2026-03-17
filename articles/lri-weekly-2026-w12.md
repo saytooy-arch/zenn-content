@@ -34,3 +34,4 @@ published: true
 ---
 
 *LRI（Legacy Resilience Insights）— 金融・エンタープライズSE向けに、レガシーシステムの保守・近代化・堅牢性に関する技術情報を自動収集・選別しています。*
+
