@@ -3,7 +3,7 @@ title: "AIエージェントの工程遷移をhookで物理的に制御する"
 emoji: "🚧"
 type: "tech"
 topics: ["ClaudeCode", "品質管理", "CI", "開発プロセス"]
-published: false
+published: true
 ---
 
 # AIエージェントの工程遷移をhookで物理的に制御する
