@@ -3,7 +3,7 @@ title: "AIエージェントがテストFAILを「環境の問題」と言い訳
 emoji: "🚫"
 type: "tech"
 topics: ["ClaudeCode", "テスト", "品質管理", "AI開発"]
-published: false
+published: true
 ---
 
 ## TL;DR
