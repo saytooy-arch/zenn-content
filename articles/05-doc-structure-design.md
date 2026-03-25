@@ -3,7 +3,7 @@ title: "AIエージェント開発のドキュメント構造設計 — specs/re
 emoji: "📁"
 type: "tech"
 topics: ["ClaudeCode", "AIエージェント", "ドキュメント管理", "テスト設計", "品質管理"]
-published: false
+published: true
 ---
 
 ## TL;DR
