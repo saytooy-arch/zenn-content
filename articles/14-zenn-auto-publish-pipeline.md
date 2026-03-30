@@ -3,7 +3,7 @@ title: "Zenn自動公開パイプラインをclaude -pで構築した話"
 emoji: "📰"
 type: "tech"
 topics: ["zenn", "claude", "自動化", "cron", "cli"]
-published: false
+published: true
 ---
 
 ## TL;DR
