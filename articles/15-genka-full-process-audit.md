@@ -3,7 +3,7 @@ title: "AI SaaSの全工程を体系的に監査して69件の漏れを見つけ
 emoji: "🔍"
 type: "tech"
 topics: ["Claude", "品質管理", "SaaS", "食品表示法", "AI"]
-published: false
+published: true
 ---
 
 ## はじめに
