@@ -3,7 +3,7 @@ title: "TypeScriptのsatisfiesでドメイン定数の二重管理を防ぐ"
 emoji: "🔒"
 type: "tech"
 topics: ["typescript", "nextjs", "設計"]
-published: false
+published: true
 ---
 
 ## はじめに
